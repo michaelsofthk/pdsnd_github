@@ -8,7 +8,6 @@ bikeshare
 To make use of python to produce statistics and summary of bikeshare
 
 ### Files used
-Include the files used
 1.bikeshare.py
 2.chicago.csv
 3.new_york_city.csv
