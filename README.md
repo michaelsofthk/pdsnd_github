@@ -5,16 +5,13 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
-To make use of python to produce statistics and summary of bikeshare
+To produce statistics and summary of bikeshare using python
 
 ### Files used
-Include the files used
 1.bikeshare.py
 2.chicago.csv
 3.new_york_city.csv
 4.washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 N/A
