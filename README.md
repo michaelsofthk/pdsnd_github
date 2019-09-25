@@ -5,7 +5,6 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
 To make use of python to produce statistics and summary of bikeshare
 
 ### Files used
